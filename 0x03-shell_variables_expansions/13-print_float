@@ -1,2 +1,2 @@
 #!/bin/bash
-print "%21" $NUM|sort
+printf '%.2f\n' $NUM
